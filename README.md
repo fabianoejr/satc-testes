@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # unit-tests-jest
-=======
 # satc-testes
-Curso de Automação de Testes
->>>>>>> main
+Projeto visto no Curso de Automação de Testes de desenvolvimento.
+
